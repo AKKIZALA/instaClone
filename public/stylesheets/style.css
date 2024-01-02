@@ -1,0 +1,11 @@
+.story::-webkit-scrollbar{
+  display: none;
+}
+
+a:focus {
+  outline: none !important;
+}
+.error{
+  color: red;
+  margin: 7px 0;
+}
